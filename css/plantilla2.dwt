@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="1247">
+  <tr>
+    <td width="330" height="220"><img src="file:///C|/Users/krlos/OneDrive/Escritorio/DOGO TECÁMAC/IMAGENES/dogo.jpg" width="336" height="212" /></td>
+    <td width="909"><img src="file:///C|/Users/krlos/OneDrive/Escritorio/DOGO TECÁMAC/IMAGENES/cabecera.jpg" width="909" height="216" /></td>
+  </tr>
+  <tr>
+    <td height="33" colspan="2"><img src="file:///C|/Users/krlos/OneDrive/Escritorio/DOGO TECÁMAC/IMAGENES/BLANC.jpg" width="1259" height="38" /></td>
+  </tr>
+  <tr>
+    <td height="67" colspan="2"><!-- TemplateBeginEditable name="cont" -->cont<!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td height="59" colspan="2" align="right"><img src="file:///C|/Users/krlos/OneDrive/Escritorio/DOGO TECÁMAC/IMAGENES/return.jpg" width="237" height="55" /></td>
+  </tr>
+  <tr>
+    <td height="42" colspan="2"><img src="file:///C|/Users/krlos/OneDrive/Escritorio/DOGO TECÁMAC/IMAGENES/BLANC.jpg" width="1258" height="38" /></td>
+  </tr>
+  <tr>
+    <td height="74" colspan="2" align="center"><h1>Un mundo de limpieza<br />
+      ¡ La calidad no cuesta más !
+    </h1></td>
+  </tr>
+  <tr>
+    <td height="42" colspan="2"><img src="file:///C|/Users/krlos/OneDrive/Escritorio/DOGO TECÁMAC/IMAGENES/BLANC.jpg" width="1262" height="38" /></td>
+  </tr>
+</table>
+</body>
+</html>
